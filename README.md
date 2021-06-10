@@ -1,4 +1,4 @@
-# PicPay Clone
+# JWT Authentication
 
 Este é o repositório com o código fonte desenvolvido baseado em um vídeo do [YouTube](https://youtu.be/0CraBZHejKI) onde criamos uma API REST com [Express](https://expressjs.com/) e [Typescript](https://www.typescriptlang.org/).
 
