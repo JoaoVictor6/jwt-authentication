@@ -1,6 +1,6 @@
 # JWT Authentication
 
-Este é o repositório com o código fonte desenvolvido baseado em um vídeo do [YouTube](https://youtu.be/0CraBZHejKI) onde criamos uma API REST com [Express](https://expressjs.com/) e [Typescript](https://www.typescriptlang.org/).
+Este é o repositório com o código fonte desenvolvido baseado em um vídeo do [YouTube](https://www.youtube.com/watch?v=TjAXBLszCb0) onde criamos uma API REST com [Express](https://expressjs.com/), [Typescript](https://www.typescriptlang.org/), [TypeORM](https://typeorm.io/#/) e [JWT](https://jwt.io/).
 
 ## Instalação
 
